@@ -5,11 +5,11 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Página de prueba con React</title>
+        <title>Performance framework template</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Hola mundo</h1>
+      <h1>Performance framework template</h1>
     </div>
   );
 }
